@@ -1,0 +1,13 @@
+name = "MechGlueRecursiveArrayTools"
+uuid = "6aa70590-773c-4af3-96e3-9e675ae1cb83"
+authors = ["hustf <hustf@users.noreply.github.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
